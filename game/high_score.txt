@@ -1,0 +1,3 @@
+bryan bell=0bryan bellbryan bellbryan bellbryan bellbryan bell
+down=0
+right=0

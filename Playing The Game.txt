@@ -1,0 +1,7 @@
+The purpose of the game is to get as
+high a score as you can. You achieve this by having lines eaten away.
+The way it works is there is a eater block that eats it's way
+across the screen. The rate at which it eats depends on
+how many blank spaces it comes upon. The more blank spaces it eats the 
+slower it eats which is bad for you because blocks come down
+faster and faster. 

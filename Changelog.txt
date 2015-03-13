@@ -1,0 +1,15 @@
+September 11,2004,version 0.36
+	You can now quit the game from the main menu.
+	Added ability to change the starting level.
+	Fixed bug where the high scores were not written properly to the high scores file.
+September 2,2004,version 0.35
+	Change behavior of Esc key.
+	You can now edit the game setting by pressing Esc
+August 30,2004,version 0.3
+	Added version number
+	Made gameplay more difficult
+	Fixed bug where the speed at which blocks fall didn't increase with the number of lines
+	cleared
+August 18,2004
+	Added block shadows
+	Added ablity to pause game by pressing Esc
